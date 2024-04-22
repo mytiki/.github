@@ -1,19 +1,34 @@
 eng:
   description: Do you even code, bro?
+  members:
+    - github: tiki-bot
+    - github: mike-audi
 
 not-eng:
   description: no nerds allowed.
+  members:
+    - github: tiki-bot
 
 product:
   description: no nerds allowed.
+  members:
+    - github: tiki-bot
+    - github: mike-audi
 
 backend:
   description: no nerds allowed.
+  members:
+    - github: tiki-bot
+    - github: mike-audi
 
 frontend:
   description: no nerds allowed.
+  members:
+    - github: tiki-bot
 
 watchdog:
   description: no nerds allowed.
-
+  members:
+    - github: tiki-bot
+    - github: mike-audi
 
