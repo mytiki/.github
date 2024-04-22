@@ -1,5 +1,19 @@
-testing:
-  description: oh ya?
-  members:
-    - github: mike-audi
-    - github: tiki-bot
+eng:
+  description: Do you even code, bro?
+
+not-eng:
+  description: no nerds allowed.
+
+product:
+  description: no nerds allowed.
+
+backend:
+  description: no nerds allowed.
+
+frontend:
+  description: no nerds allowed.
+
+watchdog:
+  description: no nerds allowed.
+
+
