@@ -1,9 +1,4 @@
-bot:
-  description: robots only.
+product:
+  description: oh ya?
   members:
     - github: tiki-bot
-
-#product:
-#  description: oh ya?
-#  members:
-#    - github: tiki-bot

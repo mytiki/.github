@@ -12,4 +12,4 @@ jobs:
     steps:
       - uses: infiotinc/team-sync@v0
         with:
-          repo-token: "${{ secrets.BOT_PAT }}"
+          repo-token: "${{ secrets.ADMIN_PAT }}"
