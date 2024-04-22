@@ -3,7 +3,7 @@ bot:
   members:
     - github: tiki-bot
 
-product:
-  description: oh ya?
-  members:
-    - github: tiki-bot
+#product:
+#  description: oh ya?
+#  members:
+#    - github: tiki-bot
