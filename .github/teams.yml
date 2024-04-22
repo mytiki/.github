@@ -5,6 +5,7 @@ eng:
     - github: mike-audi
 
 not-eng:
+  name: not eng
   description: no nerds allowed.
   members:
     - github: tiki-bot
