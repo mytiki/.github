@@ -13,6 +13,7 @@ product:
 backend:
   description: those who build the infrastructure
   parent: engineering
+  parentSlug: engineering
   members:
     - github: tiki-bot
     - github: mike-audi
@@ -20,6 +21,7 @@ backend:
 frontend:
   description: those who build the things customers touch
   parent: engineering
+  parentSlug: engineering
   members:
     - github: tiki-bot
 
