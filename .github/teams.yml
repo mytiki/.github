@@ -1,14 +1,8 @@
-eng:
+engineering:
   description: Do you even code, bro?
   members:
     - github: tiki-bot
     - github: mike-audi
-
-not-eng:
-  name: not eng
-  description: no nerds allowed.
-  members:
-    - github: tiki-bot
 
 product:
   description: no nerds allowed.
@@ -17,19 +11,20 @@ product:
     - github: mike-audi
 
 backend:
-  description: no nerds allowed.
+  description: those who build the infrastructure
+  parent: engineering
   members:
     - github: tiki-bot
     - github: mike-audi
 
 frontend:
-  description: no nerds allowed.
+  description: those who build the things customers touch
+  parent: engineering
   members:
     - github: tiki-bot
 
-watchdog:
-  description: no nerds allowed.
+sysadmin:
+  description: escalations and monitoring
   members:
-    - github: tiki-bot
     - github: mike-audi
 

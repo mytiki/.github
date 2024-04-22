@@ -10,6 +10,6 @@ jobs:
   synchronize-teams:
     runs-on: ubuntu-latest
     steps:
-      - uses: rmacklin/team-sync@v0
+      - uses: infiotinc/team-sync@v0
         with:
           repo-token: "${{ secrets.ADMIN_PAT }}"
