@@ -1,4 +1,5 @@
 product:
   description: oh ya?
   members:
+    - github: mike-audi
     - github: tiki-bot
