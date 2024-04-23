@@ -1,12 +1,12 @@
 name: Bug Report
-description: Report any issues with the repository. If you're unsure where, default to [platform](https://github.com/mytiki/platform/issues/new/choose)
+description: Report any issues with the repository.
 labels: bug
 body:
   - type: markdown
     attributes:
       value: |
         ### Found a bug?
-        Please fill out the sections below. The more comprehensive the better.
+        If you're unsure this is the right project, default to [platform](https://github.com/mytiki/platform/issues/new/choose)
   - type: textarea
     id: description
     attributes:
