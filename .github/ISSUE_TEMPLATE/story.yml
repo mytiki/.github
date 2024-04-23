@@ -19,7 +19,7 @@ body:
     attributes:
       label: Tasks
       description: Add each technical task required to complete the story.
-      value: |
+      placeholder: |
         * [ ] I'm a cool task
     validations:
       required: true
