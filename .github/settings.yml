@@ -59,6 +59,15 @@ labels:
   - name: invalid
     color: FFFFFF
     description: Not a valid issue. It likely belongs in discussions.
+  - name: invalid
+    color: story
+    description: For project tracking only. This issue is a User Story.
+  - name: task
+    color: FFFFFF
+    description: For project tracking only. This issue is a Task for a User Story.
+  - name: request
+    color: FFFFFF
+    description: For project tracking only. This issue is a request for work.
 
 branches:
   - name: main

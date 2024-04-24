@@ -1,6 +1,8 @@
 name: Feature Request
 description: Suggest a feature or idea.
-labels: feature
+labels:
+  - feature
+  - request
 body:
   - type: markdown
     attributes:

@@ -1,6 +1,8 @@
 name: Bug Report
 description: Report any issues with the repository.
-labels: bug
+labels:
+  - bug
+  - request
 body:
   - type: markdown
     attributes:
