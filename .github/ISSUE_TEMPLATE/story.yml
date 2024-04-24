@@ -1,5 +1,7 @@
 name: User Story
 description: Advanced! Leave this to the maintainers.
+labels:
+  - story
 title: "As [persona], I want to [action], so that I can [benefit]."
 body:
   - type: markdown
