@@ -1,5 +1,7 @@
 name: Story Task
 description: Advanced! Leave this to the maintainers.
+labels:
+  - task
 body:
   - type: markdown
     attributes:
