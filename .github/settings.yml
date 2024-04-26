@@ -1,7 +1,9 @@
 # Reference: https://github.com/repository-settings/app
 
 repository:
-  has_issues: true
+  has_issues: false
+  has_projects: false
+  has_discussions: false
   has_wiki: false
   has_downloads: false
   default_branch: main
@@ -63,9 +65,6 @@ labels:
   - name: task
     color: FFFFFF
     description: For project tracking only. This issue is a Task for a User Story.
-  - name: request
-    color: FFFFFF
-    description: For project tracking only. This issue is a request for work.
 
 branches:
   - name: main
