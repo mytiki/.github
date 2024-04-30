@@ -14,7 +14,7 @@
     <a href="https://rxsny9wwvhn.typeform.com/to/I65tT0sm"><strong>Request access »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/tiki">Website</a>
+    <a href="https://mytiki.com">Website</a>
     ·
     <a href="https://docs.mytiki.com">Docs</a>
     ·
